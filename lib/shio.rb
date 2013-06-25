@@ -1,4 +1,5 @@
 require "shio/version"
+<<<<<<< HEAD
 require "httparty"
 
 module Shio
@@ -21,4 +22,13 @@ module Shio
 	  end
 
 	end
+=======
+require "shio/products"
+require "shio/quote"
+require "shio/order"
+require "httparty"
+
+module Shio
+  
+>>>>>>> 5cc11ae14eb9299ca061aeda5a01c75fd03c1a4f
 end
