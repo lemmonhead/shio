@@ -1,11 +1,9 @@
 module API
 
-	class Products
+	class Products < Shio::Shio
 
-		def initialize(api_key)
-			@api_key = api_key
-			@api_param = "?api_key=#{@api_key}"
-			@api_url = "https://www.shirts.io/api/v1/"
+		def initialize
+			super
 		end
 
 		def product_categories
