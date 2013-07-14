@@ -1,4 +1,4 @@
-module API
+
 
 	class Products
 
@@ -27,4 +27,3 @@ module API
 
 	end
 
-end

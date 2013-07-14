@@ -1,0 +1,14 @@
+garment:{
+	product_id: 2,
+	color: Iris,
+	sizes: med
+	count: 12
+}
+print:{
+	front:{
+		color_count: 1
+		colors: 110U
+	}
+}
+print_type: Digital Print
+ship_type: Standard

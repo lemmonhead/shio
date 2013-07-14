@@ -1,4 +1,4 @@
-module API
+
 
 	class Order
 
@@ -8,5 +8,3 @@ module API
 
 
 	end
-
-end
